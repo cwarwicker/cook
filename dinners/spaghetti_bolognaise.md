@@ -2,11 +2,17 @@
 (Note: This recipe is for 2 servings)
 
 ## Nutritional Information
-Carbs - 73, Fats - 37, Protein - 49, **Calories - 825**
+|  |  |
+|--|--|
+| Protein | 49 |
+| Carbs | 73 |
+| Fat | 29 |
+| **Calories** | **757** |
+
 (approx - per serving)
 
 ## Ingredients
-Spaghetti (150g), Beef Mince [5%] (250g), White Onion (0.5), Garlic Cloves (2), Vegetable Stock (1), Tin of Finely Chopped Tomatoes (1), Olive Oil, Mixed Herbs (Or herbs of choice), Mature Cheddar (80g)
+Spaghetti (150g), Beef Mince [5%] (250g), White Onion (0.5), Garlic Cloves (2), Vegetable Stock (1), Tin of Finely Chopped Tomatoes (1), Olive Oil (tbsp), Mixed Herbs (Or herbs of choice), Mature Cheddar (80g)
 
 
 ## Instructions
@@ -26,7 +32,7 @@ Spaghetti (150g), Beef Mince [5%] (250g), White Onion (0.5), Garlic Cloves (2), 
 1. While sauce is cooking, add spaghetti and boiling water to another sauce pan and cook for 12-15 mins until soft
 
 ### Cook the mince
-1. While sauce is cooking, add mince to frying pan with a splash of olive oil and cook
+1. While sauce is cooking, add mince to frying pan and cook
 
 ### Serving
 1. Once mince is cooked, pour the sauce over it and let it simmer for a few minutes on low heat
