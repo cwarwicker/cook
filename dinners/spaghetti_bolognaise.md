@@ -46,3 +46,9 @@ TODO
 ### Notes
 - Mutti Finely Chopped Tomatoes work nicely
 - Kallo low salt vegetable stock
+
+
+### Modifications
+
+For a lower calorie version, replace spaghetti with courgetti or similiar. E.g. with 1 courgette sliced into strips instead of spaghetti that would be approx: 16g Carbs, 29g Fat, 42g Protein, 495 Calories
+
