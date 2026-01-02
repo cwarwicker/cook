@@ -14,6 +14,8 @@ Tagliatelle Pasta (150g), Garlic Cloves (2), White Onion (0.5), Chicken Breast (
 1. Wash and dice the broccoli into small pieces
 2. Toss together with a large splash of olive oil and some salt until all covered
 3. Dice 0.5 White Onion and 2 Garlic Cloves (Or use Garlic Press if you prefer)
+4. Disolve chicken stock in 100ml of boiling water (use more if you want the sauce thinner)
+
 
 ### Cook the chicken
 1. Pre-heat oven to around 200°.
@@ -25,12 +27,11 @@ Tagliatelle Pasta (150g), Garlic Cloves (2), White Onion (0.5), Chicken Breast (
 1. Place prepared broccoli in oven for around 20 mins
 
 ### Cook the pasta
-1. Boil a full kettle
-2. Place the pasta (150g) into a sauce pan with the boiling water and cook for 12-15 mins until soft
+1. Place the pasta (150g) into a sauce pan with the boiling water and cook for 12-15 mins until soft
 
 ### Make the sauce
 1. Put pre-diced onion and garlic into a pan with a splash of oil and cook for about 2 mins until starting to brown
-2. Add the chicken stock (1), water (100ml) and butter (15g). Stir and continue to cook for another 2-3 mins
+2. Add the chicken stock (1) and butter (15g). Stir and continue to cook for another 2-3 mins
 4. Add the creme fraiche (200g). Stir and continue to cook until it boils. Then reduce heat and let it simmer as it thickens a little.
 
 ### Serving
